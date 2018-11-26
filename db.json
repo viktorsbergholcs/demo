@@ -1,19 +1,21 @@
 {
   "past": [
     {
-		"id":"164394",
+		"id":"168298",
 		"status":"finished",
+	    	"draw": true,
 		"winner": {
-			"name": "Team Aster" 
+			"name": "BIG" 
 		  }
 	  },
 	  
 	  
 	   {
-		"id":"164392",
+		"id":"168293",
 		"status":"finished",
+		   "draw": true,
 		"winner": {
-			"name": "Vici Gaming" 
+			"name": "Team Liquid" 
 		  }
 	  },
 	  
@@ -21,10 +23,11 @@
 	  
 	  
 	     {
-		"id":"164393",
+		"id":"168299",
 		"status":"finished",
+		     "draw": false,
 		"winner": {
-			"name": "EHOME" 
+			"name": "HR" 
 		  }
 	  },
 	  
@@ -32,34 +35,18 @@
 	  
 	  
 	  	     {
-		"id":"164395",
+		"id":"168294",
 		"status":"finished",
+			     "draw": false,
 		"winner": {
-			"name": "PSG.LGD" 
+			"name": "NRG" 
 		  }
 	  },
 	  
 	  
 	  
 	  
-	  	     {
-		"id":"164396",
-		"status":"finished",
-		"winner": {
-			"name": "KEENGAMING.LUMINOUS" 
-		  }
-	  },
-	  
-	  
-	  
-	  
-	  	     {
-		"id":"164397",
-		"status":"finished",
-		"winner": {
-			"name": "Invictus Gaming" 
-		  }
-	  },
+	  	  
 	  
 	  
 	  
