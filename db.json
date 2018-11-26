@@ -4,9 +4,7 @@
 		"id":"168298",
 		"status":"finished",
 	    	"draw": true,
-		"winner": {
-			"name": "BIG" 
-		  }
+		"winner": null
 	  },
 	  
 	  
@@ -14,9 +12,7 @@
 		"id":"168293",
 		"status":"finished",
 		   "draw": true,
-		"winner": {
-			"name": "Team Liquid" 
-		  }
+		"winner": null
 	  },
 	  
 	  
